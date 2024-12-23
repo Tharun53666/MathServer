@@ -138,7 +138,8 @@ math.html
 
 ## HOMEPAGE:
 
-![alt text](<../WhatsApp Image 2024-12-23 at 11.27.08_ddd7e63b.jpg>)
+![WhatsApp Image 2024-12-23 at 11 27 08_ddd7e63b](https://github.com/user-attachments/assets/8a66c217-1774-4f2a-8c41-64c022d226b9)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
